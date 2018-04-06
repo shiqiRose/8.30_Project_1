@@ -1,7 +1,7 @@
-*项目环境：Eclipse、Orcale10g、PL/SQL、jdk 7.0、Tomcat 7.0</br>
-*项目描述：此项目主要是做一个简单的考生报名平台，考务人员可进去审核相关信息</br>
+* 项目环境：Eclipse、Orcale10g、PL/SQL、jdk 7.0、Tomcat 7.0</br>
+* 项目描述：此项目主要是做一个简单的考生报名平台，考务人员可进去审核相关信息</br>
 利用jdbc+servlet+jsp+bootstrap实现</br>
-*项目已实现功能</br>
+* 项目已实现功能</br>
 <ul>
 <li>1、考生可根据 
 用户名、密码、姓名、身份证号码、报考等级、出生日期、性别、手机号码、E-mail、报考省份、照片等信息进行注册</li>
